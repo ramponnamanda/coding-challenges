@@ -1,5 +1,4 @@
-from BST import BinarySearchTree
-from BST import Node
+from io.pyprojects.all.BST import BinarySearchTree
 
 if __name__ == '__main__':
     node = BinarySearchTree.init()
